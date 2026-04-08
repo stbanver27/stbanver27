@@ -60,7 +60,7 @@ Actualmente ofrezco servicios freelance de desarrollo web y automatización, con
 
 ## Proyectos destacados
 
-### 🏪 [InventaPyme](https://github.com/stban-vergara/inventapyme)
+### 🏪 [InventaPyme](https://github.com/stbanver27/inventapyme)
 Sistema de inventario y punto de venta para pequeñas empresas. Incluye autenticación JWT con roles, dashboard con estadísticas en tiempo real, gestión de stock con alertas y módulo de ventas con historial.
 
 `FastAPI` `SQLAlchemy` `JWT` `HTML/CSS/JS` `SQLite`
