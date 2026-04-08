@@ -65,6 +65,12 @@ Sistema de inventario y punto de venta para pequeñas empresas. Incluye autentic
 
 `FastAPI` `SQLAlchemy` `JWT` `HTML/CSS/JS` `SQLite`
 
+📅 ReservaPro
+
+Plataforma web de gestión de reservas enfocada en pymes (peluquerías, centros de estética, consultas, etc.). Permite administrar horarios, clientes y servicios en un sistema simple y escalable. Incluye autenticación, panel administrativo y base de datos ligera para despliegues rápidos.
+
+Stack: FastAPI · SQLAlchemy · HTML/CSS/JS · SQLite
+
 ---
 
 ## Servicios freelance
